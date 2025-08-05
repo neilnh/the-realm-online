@@ -1,4 +1,7 @@
-import {categories, cells, monsterless_regions, regions} from "./objects.js"
+import categories from "./res/categories.json" with {"type": "json"}
+import cells from "./res/cells.json" with {"type": "json"}
+import monsterless_regions from "./res/monsterless_regions.json" with {"type": "json"}
+import regions from "./res/regions.json" with {"type": "json"}
 
 const collections_box = document.querySelector("#collections_box")
 const hide_collections_button = document.querySelector("#hide_collections")
