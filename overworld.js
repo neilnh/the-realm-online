@@ -113,7 +113,7 @@ function show_info_box(ev) {
       room_maps.textContent = "potential off-site maps:"
       for (const item of room["maps"]){
          const li = document.createElement("li")
-         map_link = document.createElement("a")
+         const map_link = document.createElement("a")
          map_link.href = item
          map_link.textContent = "map"
          li.appendChild(map_link)
