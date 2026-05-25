@@ -1,3 +1,5 @@
+Original info from SuperJoshua below.  This is an attempt to update the map to be correct for the current version (changes to Leinster towns)
+
 # A map of The Realm Online
 Despothes Grove, server 3.52
 
